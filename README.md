@@ -22,7 +22,7 @@ Most facial trackers are "floaty" or shake when you try to hold still. This proj
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ArdaDemirr/FaceTrack-Cursor.git](https://github.com/YourUsername/SteadyMouse-AI.git)
+    git clone [https://github.com/ArdaDemirr/FaceTrack-Cursor.git]
     cd SteadyMouse-AI
     ```
 
